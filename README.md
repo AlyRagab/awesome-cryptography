@@ -5,7 +5,7 @@ Full ready made documents of Cryptography with all its types
 
 - [Secret Key Encryption](./00-secret-key-encryption/)
 
-- [Asymmetric Cryptography](./01-asymmetric-cryptography/)
+- [Asymmetric Cryptography (Public Key Cryptography)](./01-asymmetric-cryptography/)
 
 - [Public Key Infrastructure - PKI](./02-public-key-infrastructure/)
 
